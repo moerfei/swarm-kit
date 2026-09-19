@@ -1,0 +1,34 @@
+{
+  "name": "swarm-kit",
+  "version": "0.1.0",
+  "description": "Swarm orchestration kit: scout/worker/judge agent types, a .swarm/ blackboard protocol, an L1-L4 graded orchestration playbook, and a retrospective skill for self-improvement.",
+  "author": {
+    "name": "mojun"
+  },
+  "keywords": [
+    "swarm",
+    "multi-agent",
+    "orchestration",
+    "subagents"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Swarm Kit",
+    "shortDescription": "Orchestrate parallel subagent swarms.",
+    "longDescription": "Swarm Kit packages 2024-2026 multi-agent research (orchestrator-worker, routines and handoffs, sampling-and-voting, optimizable agent graphs) into a practical playbook: three worker agent types (scout/worker/judge), a blackboard protocol under .swarm/, an orchestration skill with L1-L4 effort scaling, and a retrospective skill that improves the swarm's own prompts.",
+    "developerName": "mojun",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "brandColor": "#F5A623",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png",
+    "defaultPrompt": [
+      "用蜂群并行调研一个技术选型",
+      "并行实现三个独立小需求并汇总",
+      "蜂群任务结束后做一次复盘"
+    ]
+  }
+}

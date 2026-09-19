@@ -1,0 +1,24 @@
+{
+  "name": "swarm-kit",
+  "displayName": "蜂群工具箱",
+  "displayName_i18n": {
+    "en": "Swarm Kit",
+    "zh-CN": "蜂群工具箱"
+  },
+  "version": "0.1.0",
+  "description": "Swarm orchestration kit for ZCode: scout/worker/judge agent types, a .swarm/ blackboard protocol, an L1-L4 graded orchestration playbook, and a retrospective skill for self-improvement.",
+  "description_i18n": {
+    "en": "Swarm orchestration kit: scout/worker/judge agent types, a .swarm/ blackboard protocol, an L1-L4 graded orchestration playbook, and a retrospective skill for self-improvement.",
+    "zh-CN": "【研发效能】蜂群编排工具箱：侦察蜂/工蜂/评审蜂三种代理、.swarm 黑板协议、L1-L4 分级编排手册与复盘自优化技能。"
+  },
+  "author": {
+    "name": "mojun"
+  },
+  "keywords": [
+    "swarm",
+    "multi-agent",
+    "orchestration",
+    "subagents",
+    "蜂群"
+  ]
+}
