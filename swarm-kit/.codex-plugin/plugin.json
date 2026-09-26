@@ -1,6 +1,6 @@
 {
   "name": "swarm-kit",
-  "version": "0.1.0",
+  "version": "0.1.0+codex.20260916124028",
   "description": "Swarm orchestration kit: scout/worker/judge agent types, a .swarm/ blackboard protocol, an L1-L4 graded orchestration playbook, and a retrospective skill for self-improvement.",
   "author": {
     "name": "mojun"
@@ -26,9 +26,9 @@
     "logo": "./assets/logo.png",
     "logoDark": "./assets/logo-dark.png",
     "defaultPrompt": [
-      "用蜂群并行调研一个技术选型",
-      "并行实现三个独立小需求并汇总",
-      "蜂群任务结束后做一次复盘"
+      "\u7528\u8702\u7fa4\u5e76\u884c\u8c03\u7814\u4e00\u4e2a\u6280\u672f\u9009\u578b",
+      "\u5e76\u884c\u5b9e\u73b0\u4e09\u4e2a\u72ec\u7acb\u5c0f\u9700\u6c42\u5e76\u6c47\u603b",
+      "\u8702\u7fa4\u4efb\u52a1\u7ed3\u675f\u540e\u505a\u4e00\u6b21\u590d\u76d8"
     ]
   }
 }
